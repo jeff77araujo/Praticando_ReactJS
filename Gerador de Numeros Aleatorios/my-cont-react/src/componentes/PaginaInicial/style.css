@@ -1,0 +1,29 @@
+body {
+    background-image: url('https://images7.alphacoders.com/343/343836.jpg');
+}
+
+.conteudo-centralizado {
+    color: rgb(250, 248, 249);
+    font-size: 25px;
+    width: 700px;
+    height: 400px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.area-botao {
+    display: grid;
+    margin-bottom: 200px;
+    padding: 20px;
+}
+
+.button {
+    padding: 5px;
+    width: 100px;
+    height: 40px;
+    border: 2px solid #18a830;
+    border-radius: 4px;
+    margin: 10px;
+    margin-right: auto;
+    margin-left: auto;
+}
