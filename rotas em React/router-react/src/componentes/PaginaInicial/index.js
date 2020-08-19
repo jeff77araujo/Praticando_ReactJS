@@ -7,8 +7,8 @@ const PaginaInicial = () => (
         <h1>Escolha seu caminho em JavaScript</h1>
 
         <div className='conteudo-opcoes'>
-            <Link className='opcao-front' to='/front-end'>Front-end</Link>
-            <Link className='opcao-back' to='/back-end'>Back-end</Link>
+            <Link className='opcao-front-back' to='/front-end'>Front-end</Link>
+            <Link className='opcao-front-back' to='/back-end'>Back-end</Link>
         </div>
     </div>
 )

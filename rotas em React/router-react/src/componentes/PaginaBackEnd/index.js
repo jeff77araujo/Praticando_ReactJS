@@ -1,5 +1,6 @@
 import React from 'react';
 import BotaoVoltar from '../BotaoVoltar';
+import '../PaginaInicial/style.css';
 
 const PaginaBackEnd = () => (
     <div>
@@ -10,7 +11,7 @@ const PaginaBackEnd = () => (
         Através dele, é possível desenvolver pequenas e grandes aplicações. É de código aberto e possui uma ampla comunidade.
         </p>
 
-        <a href='https://www.devmedia.com.br/node-js/'>Guia de React</a>
+        <a className='opcao-front-back' href='https://www.devmedia.com.br/node-js/'>Guia de React</a>
 
         <BotaoVoltar/>
     </div>

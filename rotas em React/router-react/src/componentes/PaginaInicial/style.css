@@ -10,12 +10,15 @@
     font-weight: 500;
   }
   
-  .opcao-front-end{
-    background-color: #61fb75;
-    color: rgb(48, 48, 211);
+  .opcao-front-back{
+    background-color: #43853d;
+    color: #101081;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 8%;
   }
   
-  .opcao-back-end{
-    background-color: #43853d;
-    color: #fff 
+  .opcao-front-back:hover{
+    background-color: #101081;
+    color: #43853d;
   }
